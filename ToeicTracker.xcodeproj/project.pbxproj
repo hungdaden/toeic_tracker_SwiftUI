@@ -3,107 +3,109 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 60;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		67D7ED3FC7E34BE8B8EE4135 /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EE6C8E10EA452CBFFEB996 /* UserViewModel.swift */; };
-		2ED6276FD8C149FCB409EDC3 /* MunAIViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7270F8C009E04CC6A6A8A878 /* MunAIViewModel.swift */; };
-		6A73BE5E38BA45B2A3173BBE /* ExamViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8F120FC829F466599FDB3A7 /* ExamViewModel.swift */; };
-		D71767C709024492A9A4A0B5 /* ToeicTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C383671FF364415B906FAB9F /* ToeicTrackerApp.swift */; };
-		08CEF26576834BEBB18E05F1 /* GroupModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5839A3E6B2754A51B56590DC /* GroupModel.swift */; };
 		01432B5BAA1E4FE7AC2D8C6C /* MunAIChat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A5DDDD84F74677ACF1DA06 /* MunAIChat.swift */; };
-		26C95C9456DA41E1B47F44EF /* ToeicScore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D557D1D0DC4824A6EA1084 /* ToeicScore.swift */; };
-		66AB618EF2AC4DEFAE9D8FE6 /* ToeicExam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CB64A51052C405A82EFDE70 /* ToeicExam.swift */; };
-		D022E4F07FE74F328D0AA7FF /* ToeicScoreConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B139050C7F14058AE273554 /* ToeicScoreConverter.swift */; };
-		16BC20FDB9F34E619EA193BD /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4F5C7D821A4762866A9294 /* UserModel.swift */; };
-		E9EB4E1F85424A63A369D024 /* FloatingTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B2EFC2519764782BB357913 /* FloatingTabBar.swift */; };
-		616CE6FF9EB7436CBE9450F9 /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B577B214DD41EAA6416AFF /* CircularProgressView.swift */; };
-		2AF2F3292A8243E6848FAEA4 /* DynamicIslandNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C9A69944FD4B86BA6EDC31 /* DynamicIslandNotification.swift */; };
-		D63306FCEB814DACA2D52475 /* ConfettiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78038093041B47A5BD518DE1 /* ConfettiView.swift */; };
-		26219226028D47958025E78C /* LiquidGlassTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378583B124AB4BD8BD53A19D /* LiquidGlassTheme.swift */; };
-		B34ABFF77C024719AF2D5D02 /* LiquidGlassModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FF50DAFC254A1BA0892334 /* LiquidGlassModifiers.swift */; };
-		515B331CC4CC4AE3ACBF8150 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8CB376E28B84BC38841B295 /* MainView.swift */; };
-		AF87B5CE4A734403ABC3C07F /* ScoreChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1976DA093CB491BA6CBDFDC /* ScoreChartView.swift */; };
-		2E160E3116884BD4A7B0206E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5C971F9D8844E695628E24 /* HomeView.swift */; };
 		0143A4395BFD4E0FB347A044 /* ScoreCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EE3198ACE194B38BA256362 /* ScoreCardView.swift */; };
-		D7D0678E4C10422B992F8365 /* LearningPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBCF21B8ED114CD6A04D8D19 /* LearningPathView.swift */; };
-		DBC2F3BFE53842DC91CC4420 /* LeaderboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6001D8136BAF46AFBE076FAA /* LeaderboardView.swift */; };
-		9FCEAC1715924AE49CA77922 /* GroupDialogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD15F42B7FC4FC48D5A55E5 /* GroupDialogView.swift */; };
-		D0F23042DD1B42368CC5B572 /* AddScoreSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AD972671F45BBA6977F4A /* AddScoreSheet.swift */; };
-		E61DB4F4AF2743CD89B6AB55 /* EditUserSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD412BEE96740F7A1EA111D /* EditUserSheet.swift */; };
-		69D2813423E24509869E1511 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72379A22A9A24F95B8152537 /* ProfileView.swift */; };
-		DA6A8D29BD6840189235F724 /* AddUserSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B42069808140708314477A /* AddUserSheet.swift */; };
-		256B5CF476B74C4AB57433AD /* MunAIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2D24559F150412A88C5DEBB /* MunAIView.swift */; };
-		1AB8300CFD124701953D7084 /* ChatBubbleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5D0F8C5F7844CAA569EB65 /* ChatBubbleView.swift */; };
-		38C22BB258FC4113A3E3D45E /* ChatSessionDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9797BD1200274222B6907209 /* ChatSessionDrawer.swift */; };
-		754AB2F283D8401C9DBE0A1F /* QuestionGridSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D32F2A5FC4C638671F402 /* QuestionGridSheet.swift */; };
-		DBB33E7749CA4489BE62E643 /* ExamModeModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAF6DBC96CD470AB41F2B8E /* ExamModeModal.swift */; };
-		14915553F59A4178950AF44E /* ExamListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840236C1E23B40F8ABEA10F6 /* ExamListView.swift */; };
-		21F877FD025F4891AD108A7B /* ExamResultSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42CF096BE81F4D57917D1769 /* ExamResultSheet.swift */; };
-		D86C521151094865856C81F7 /* ExamSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEEB5110F3CF4CF29F72DD87 /* ExamSessionView.swift */; };
+		08CEF26576834BEBB18E05F1 /* GroupModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5839A3E6B2754A51B56590DC /* GroupModel.swift */; };
 		0A21955D1EBE4648A999B573 /* GeminiAIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B28171614D49EDBF79F191 /* GeminiAIService.swift */; };
-		660168019C054A2B8DE4AF58 /* StorageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861E7B7B300341DC86818BCE /* StorageService.swift */; };
+		14915553F59A4178950AF44E /* ExamListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840236C1E23B40F8ABEA10F6 /* ExamListView.swift */; };
+		16BC20FDB9F34E619EA193BD /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4F5C7D821A4762866A9294 /* UserModel.swift */; };
+		1AB8300CFD124701953D7084 /* ChatBubbleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5D0F8C5F7844CAA569EB65 /* ChatBubbleView.swift */; };
+		21F877FD025F4891AD108A7B /* ExamResultSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42CF096BE81F4D57917D1769 /* ExamResultSheet.swift */; };
+		256B5CF476B74C4AB57433AD /* MunAIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2D24559F150412A88C5DEBB /* MunAIView.swift */; };
+		26219226028D47958025E78C /* LiquidGlassTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378583B124AB4BD8BD53A19D /* LiquidGlassTheme.swift */; };
+		26C95C9456DA41E1B47F44EF /* ToeicScore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D557D1D0DC4824A6EA1084 /* ToeicScore.swift */; };
+		2AF2F3292A8243E6848FAEA4 /* DynamicIslandNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C9A69944FD4B86BA6EDC31 /* DynamicIslandNotification.swift */; };
+		2D825E78754C41279CB44E07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1C2B785E8894F5AB592C2C6 /* Assets.xcassets */; };
+		2E160E3116884BD4A7B0206E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5C971F9D8844E695628E24 /* HomeView.swift */; };
+		2ED6276FD8C149FCB409EDC3 /* MunAIViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7270F8C009E04CC6A6A8A878 /* MunAIViewModel.swift */; };
 		31BC7EF744CD45C3AA6A4437 /* AudioPlayerService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780F80C1FF9A488FB81E5199 /* AudioPlayerService.swift */; };
+		38C22BB258FC4113A3E3D45E /* ChatSessionDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9797BD1200274222B6907209 /* ChatSessionDrawer.swift */; };
+		515B331CC4CC4AE3ACBF8150 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8CB376E28B84BC38841B295 /* MainView.swift */; };
+		616CE6FF9EB7436CBE9450F9 /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B577B214DD41EAA6416AFF /* CircularProgressView.swift */; };
+		660168019C054A2B8DE4AF58 /* StorageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861E7B7B300341DC86818BCE /* StorageService.swift */; };
+		66AB618EF2AC4DEFAE9D8FE6 /* ToeicExam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CB64A51052C405A82EFDE70 /* ToeicExam.swift */; };
+		67D7ED3FC7E34BE8B8EE4135 /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9EE6C8E10EA452CBFFEB996 /* UserViewModel.swift */; };
+		69D2813423E24509869E1511 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72379A22A9A24F95B8152537 /* ProfileView.swift */; };
+		6A73BE5E38BA45B2A3173BBE /* ExamViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8F120FC829F466599FDB3A7 /* ExamViewModel.swift */; };
 		74134CBB537C419D8AC64E61 /* ExamService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8F137061E34A81A07E019D /* ExamService.swift */; };
+		754AB2F283D8401C9DBE0A1F /* QuestionGridSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D32F2A5FC4C638671F402 /* QuestionGridSheet.swift */; };
+		9FCEAC1715924AE49CA77922 /* GroupDialogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD15F42B7FC4FC48D5A55E5 /* GroupDialogView.swift */; };
 		AA11BB22CC334455DD66EE01 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA11BB22CC334455DD66FF01 /* AuthService.swift */; };
 		AA11BB22CC334455DD66EE02 /* FirebaseConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA11BB22CC334455DD66FF02 /* FirebaseConfig.swift */; };
 		AA11BB22CC334455DD66EE03 /* FirestoreService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA11BB22CC334455DD66FF03 /* FirestoreService.swift */; };
 		AA11BB22CC334455DD66EE04 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA11BB22CC334455DD66FF04 /* LoginView.swift */; };
 		AA11BB22CC334455DD66EE05 /* MaintenanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA11BB22CC334455DD66FF05 /* MaintenanceView.swift */; };
-		2D825E78754C41279CB44E07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1C2B785E8894F5AB592C2C6 /* Assets.xcassets */; };
+		AF87B5CE4A734403ABC3C07F /* ScoreChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1976DA093CB491BA6CBDFDC /* ScoreChartView.swift */; };
+		B34ABFF77C024719AF2D5D02 /* LiquidGlassModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FF50DAFC254A1BA0892334 /* LiquidGlassModifiers.swift */; };
+		D022E4F07FE74F328D0AA7FF /* ToeicScoreConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B139050C7F14058AE273554 /* ToeicScoreConverter.swift */; };
+		D0F23042DD1B42368CC5B572 /* AddScoreSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AD972671F45BBA6977F4A /* AddScoreSheet.swift */; };
+		D63306FCEB814DACA2D52475 /* ConfettiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78038093041B47A5BD518DE1 /* ConfettiView.swift */; };
+		D71767C709024492A9A4A0B5 /* ToeicTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C383671FF364415B906FAB9F /* ToeicTrackerApp.swift */; };
+		D7D0678E4C10422B992F8365 /* LearningPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBCF21B8ED114CD6A04D8D19 /* LearningPathView.swift */; };
+		D86C521151094865856C81F7 /* ExamSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEEB5110F3CF4CF29F72DD87 /* ExamSessionView.swift */; };
+		DA6A8D29BD6840189235F724 /* AddUserSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B42069808140708314477A /* AddUserSheet.swift */; };
 		DAE75F0D8CD64A0F8507E587 /* exams in Resources */ = {isa = PBXBuildFile; fileRef = 3D91D6D2BFF741D8812C6770 /* exams */; };
+		DBB33E7749CA4489BE62E643 /* ExamModeModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAF6DBC96CD470AB41F2B8E /* ExamModeModal.swift */; };
+		DBC2F3BFE53842DC91CC4420 /* LeaderboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6001D8136BAF46AFBE076FAA /* LeaderboardView.swift */; };
+		E61DB4F4AF2743CD89B6AB55 /* EditUserSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD412BEE96740F7A1EA111D /* EditUserSheet.swift */; };
+		E9EB4E1F85424A63A369D024 /* FloatingTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B2EFC2519764782BB357913 /* FloatingTabBar.swift */; };
+		A5768AA98EB99E960DC0CFB5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5128586BAD7F4D4B595C5F3E /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D906CC3E7A6E4301AB6292F2 /* ToeicTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToeicTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F7AD972671F45BBA6977F4A /* AddScoreSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddScoreSheet.swift; sourceTree = "<group>"; };
+		41B42069808140708314477A /* AddUserSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddUserSheet.swift; sourceTree = "<group>"; };
+		D1C2B785E8894F5AB592C2C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		780F80C1FF9A488FB81E5199 /* AudioPlayerService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerService.swift; sourceTree = "<group>"; };
+		AA11BB22CC334455DD66FF01 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
+		DD5D0F8C5F7844CAA569EB65 /* ChatBubbleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatBubbleView.swift; sourceTree = "<group>"; };
+		9797BD1200274222B6907209 /* ChatSessionDrawer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatSessionDrawer.swift; sourceTree = "<group>"; };
+		D9B577B214DD41EAA6416AFF /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
+		78038093041B47A5BD518DE1 /* ConfettiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfettiView.swift; sourceTree = "<group>"; };
+		02C9A69944FD4B86BA6EDC31 /* DynamicIslandNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicIslandNotification.swift; sourceTree = "<group>"; };
+		4FD412BEE96740F7A1EA111D /* EditUserSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditUserSheet.swift; sourceTree = "<group>"; };
+		840236C1E23B40F8ABEA10F6 /* ExamListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamListView.swift; sourceTree = "<group>"; };
+		0AAF6DBC96CD470AB41F2B8E /* ExamModeModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamModeModal.swift; sourceTree = "<group>"; };
+		42CF096BE81F4D57917D1769 /* ExamResultSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamResultSheet.swift; sourceTree = "<group>"; };
+		8D8F137061E34A81A07E019D /* ExamService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamService.swift; sourceTree = "<group>"; };
+		AEEB5110F3CF4CF29F72DD87 /* ExamSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamSessionView.swift; sourceTree = "<group>"; };
+		B8F120FC829F466599FDB3A7 /* ExamViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamViewModel.swift; sourceTree = "<group>"; };
+		AA11BB22CC334455DD66FF02 /* FirebaseConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseConfig.swift; sourceTree = "<group>"; };
+		AA11BB22CC334455DD66FF03 /* FirestoreService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirestoreService.swift; sourceTree = "<group>"; };
+		7B2EFC2519764782BB357913 /* FloatingTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingTabBar.swift; sourceTree = "<group>"; };
+		E6B28171614D49EDBF79F191 /* GeminiAIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeminiAIService.swift; sourceTree = "<group>"; };
+		5128586BAD7F4D4B595C5F3E /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = GoogleService-Info.plist; sourceTree = "<group>"; };
+		1CD15F42B7FC4FC48D5A55E5 /* GroupDialogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupDialogView.swift; sourceTree = "<group>"; };
+		5839A3E6B2754A51B56590DC /* GroupModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupModel.swift; sourceTree = "<group>"; };
+		9F5C971F9D8844E695628E24 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		AAD71FCDE54B41F8A970E353 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A9EE6C8E10EA452CBFFEB996 /* UserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/ViewModels/UserViewModel.swift"; sourceTree = SOURCE_ROOT; };
-		7270F8C009E04CC6A6A8A878 /* MunAIViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/ViewModels/MunAIViewModel.swift"; sourceTree = SOURCE_ROOT; };
-		B8F120FC829F466599FDB3A7 /* ExamViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/ViewModels/ExamViewModel.swift"; sourceTree = SOURCE_ROOT; };
-		C383671FF364415B906FAB9F /* ToeicTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/App/ToeicTrackerApp.swift"; sourceTree = SOURCE_ROOT; };
-		5839A3E6B2754A51B56590DC /* GroupModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Models/GroupModel.swift"; sourceTree = SOURCE_ROOT; };
-		28A5DDDD84F74677ACF1DA06 /* MunAIChat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Models/MunAIChat.swift"; sourceTree = SOURCE_ROOT; };
-		B7D557D1D0DC4824A6EA1084 /* ToeicScore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Models/ToeicScore.swift"; sourceTree = SOURCE_ROOT; };
-		3CB64A51052C405A82EFDE70 /* ToeicExam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Models/ToeicExam.swift"; sourceTree = SOURCE_ROOT; };
-		4B139050C7F14058AE273554 /* ToeicScoreConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Models/ToeicScoreConverter.swift"; sourceTree = SOURCE_ROOT; };
-		6B4F5C7D821A4762866A9294 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Models/UserModel.swift"; sourceTree = SOURCE_ROOT; };
-		7B2EFC2519764782BB357913 /* FloatingTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Components/FloatingTabBar.swift"; sourceTree = SOURCE_ROOT; };
-		D9B577B214DD41EAA6416AFF /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Components/CircularProgressView.swift"; sourceTree = SOURCE_ROOT; };
-		02C9A69944FD4B86BA6EDC31 /* DynamicIslandNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Components/DynamicIslandNotification.swift"; sourceTree = SOURCE_ROOT; };
-		78038093041B47A5BD518DE1 /* ConfettiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Components/ConfettiView.swift"; sourceTree = SOURCE_ROOT; };
-		378583B124AB4BD8BD53A19D /* LiquidGlassTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Theme/LiquidGlassTheme.swift"; sourceTree = SOURCE_ROOT; };
-		A3FF50DAFC254A1BA0892334 /* LiquidGlassModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Theme/LiquidGlassModifiers.swift"; sourceTree = SOURCE_ROOT; };
-		E8CB376E28B84BC38841B295 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/MainView.swift"; sourceTree = SOURCE_ROOT; };
-		C1976DA093CB491BA6CBDFDC /* ScoreChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Home/ScoreChartView.swift"; sourceTree = SOURCE_ROOT; };
-		9F5C971F9D8844E695628E24 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Home/HomeView.swift"; sourceTree = SOURCE_ROOT; };
-		9EE3198ACE194B38BA256362 /* ScoreCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Home/ScoreCardView.swift"; sourceTree = SOURCE_ROOT; };
-		DBCF21B8ED114CD6A04D8D19 /* LearningPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/LearningPath/LearningPathView.swift"; sourceTree = SOURCE_ROOT; };
-		6001D8136BAF46AFBE076FAA /* LeaderboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Leaderboard/LeaderboardView.swift"; sourceTree = SOURCE_ROOT; };
-		1CD15F42B7FC4FC48D5A55E5 /* GroupDialogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Leaderboard/GroupDialogView.swift"; sourceTree = SOURCE_ROOT; };
-		8F7AD972671F45BBA6977F4A /* AddScoreSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Score/AddScoreSheet.swift"; sourceTree = SOURCE_ROOT; };
-		4FD412BEE96740F7A1EA111D /* EditUserSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Profile/EditUserSheet.swift"; sourceTree = SOURCE_ROOT; };
-		72379A22A9A24F95B8152537 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Profile/ProfileView.swift"; sourceTree = SOURCE_ROOT; };
-		41B42069808140708314477A /* AddUserSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Profile/AddUserSheet.swift"; sourceTree = SOURCE_ROOT; };
-		C2D24559F150412A88C5DEBB /* MunAIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/MunAI/MunAIView.swift"; sourceTree = SOURCE_ROOT; };
-		DD5D0F8C5F7844CAA569EB65 /* ChatBubbleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/MunAI/ChatBubbleView.swift"; sourceTree = SOURCE_ROOT; };
-		9797BD1200274222B6907209 /* ChatSessionDrawer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/MunAI/ChatSessionDrawer.swift"; sourceTree = SOURCE_ROOT; };
-		8F8D32F2A5FC4C638671F402 /* QuestionGridSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Exams/QuestionGridSheet.swift"; sourceTree = SOURCE_ROOT; };
-		0AAF6DBC96CD470AB41F2B8E /* ExamModeModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Exams/ExamModeModal.swift"; sourceTree = SOURCE_ROOT; };
-		840236C1E23B40F8ABEA10F6 /* ExamListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Exams/ExamListView.swift"; sourceTree = SOURCE_ROOT; };
-		42CF096BE81F4D57917D1769 /* ExamResultSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Exams/ExamResultSheet.swift"; sourceTree = SOURCE_ROOT; };
-		AEEB5110F3CF4CF29F72DD87 /* ExamSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Exams/ExamSessionView.swift"; sourceTree = SOURCE_ROOT; };
-		E6B28171614D49EDBF79F191 /* GeminiAIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Services/GeminiAIService.swift"; sourceTree = SOURCE_ROOT; };
-		861E7B7B300341DC86818BCE /* StorageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Services/StorageService.swift"; sourceTree = SOURCE_ROOT; };
-		780F80C1FF9A488FB81E5199 /* AudioPlayerService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Services/AudioPlayerService.swift"; sourceTree = SOURCE_ROOT; };
-		8D8F137061E34A81A07E019D /* ExamService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Services/ExamService.swift"; sourceTree = SOURCE_ROOT; };
-		AA11BB22CC334455DD66FF01 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Services/AuthService.swift"; sourceTree = SOURCE_ROOT; };
-		AA11BB22CC334455DD66FF02 /* FirebaseConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Services/FirebaseConfig.swift"; sourceTree = SOURCE_ROOT; };
-		AA11BB22CC334455DD66FF03 /* FirestoreService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Services/FirestoreService.swift"; sourceTree = SOURCE_ROOT; };
-		AA11BB22CC334455DD66FF04 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/Auth/LoginView.swift"; sourceTree = SOURCE_ROOT; };
-		AA11BB22CC334455DD66FF05 /* MaintenanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToeicTracker/Views/MaintenanceView.swift"; sourceTree = SOURCE_ROOT; };
-		D1C2B785E8894F5AB592C2C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = "folder.assetcatalog"; path = "ToeicTracker/Resources/Assets.xcassets"; sourceTree = SOURCE_ROOT; };
-		3D91D6D2BFF741D8812C6770 /* exams */ = {isa = PBXFileReference; lastKnownFileType = "folder"; path = "ToeicTracker/Resources/exams"; sourceTree = SOURCE_ROOT; };
+		6001D8136BAF46AFBE076FAA /* LeaderboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeaderboardView.swift; sourceTree = "<group>"; };
+		DBCF21B8ED114CD6A04D8D19 /* LearningPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningPathView.swift; sourceTree = "<group>"; };
+		A3FF50DAFC254A1BA0892334 /* LiquidGlassModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiquidGlassModifiers.swift; sourceTree = "<group>"; };
+		378583B124AB4BD8BD53A19D /* LiquidGlassTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiquidGlassTheme.swift; sourceTree = "<group>"; };
+		AA11BB22CC334455DD66FF04 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		E8CB376E28B84BC38841B295 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		AA11BB22CC334455DD66FF05 /* MaintenanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceView.swift; sourceTree = "<group>"; };
+		28A5DDDD84F74677ACF1DA06 /* MunAIChat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MunAIChat.swift; sourceTree = "<group>"; };
+		C2D24559F150412A88C5DEBB /* MunAIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MunAIView.swift; sourceTree = "<group>"; };
+		7270F8C009E04CC6A6A8A878 /* MunAIViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MunAIViewModel.swift; sourceTree = "<group>"; };
+		72379A22A9A24F95B8152537 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		8F8D32F2A5FC4C638671F402 /* QuestionGridSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionGridSheet.swift; sourceTree = "<group>"; };
+		9EE3198ACE194B38BA256362 /* ScoreCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreCardView.swift; sourceTree = "<group>"; };
+		C1976DA093CB491BA6CBDFDC /* ScoreChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreChartView.swift; sourceTree = "<group>"; };
+		861E7B7B300341DC86818BCE /* StorageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageService.swift; sourceTree = "<group>"; };
+		3CB64A51052C405A82EFDE70 /* ToeicExam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToeicExam.swift; sourceTree = "<group>"; };
+		B7D557D1D0DC4824A6EA1084 /* ToeicScore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToeicScore.swift; sourceTree = "<group>"; };
+		4B139050C7F14058AE273554 /* ToeicScoreConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToeicScoreConverter.swift; sourceTree = "<group>"; };
+		D906CC3E7A6E4301AB6292F2 /* ToeicTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToeicTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C383671FF364415B906FAB9F /* ToeicTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToeicTrackerApp.swift; sourceTree = "<group>"; };
+		6B4F5C7D821A4762866A9294 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
+		A9EE6C8E10EA452CBFFEB996 /* UserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserViewModel.swift; sourceTree = "<group>"; };
+		3D91D6D2BFF741D8812C6770 /* exams */ = {isa = PBXFileReference; lastKnownFileType = folder; path = exams; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,74 +119,172 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9A7DB0D585BD4FDE9C9A9C9E = {
+		75177CC4DD9D19D703137E50 /* Auth */ = {
 			isa = PBXGroup;
 			children = (
-				31D827A168ED4DDF92580B06 /* Sources */,
-				C826D15631CF452ABCB16AF5 /* Resources */,
-				0CAF30E5BFED4A5C86FBC1EB /* Products */,
+				AA11BB22CC334455DD66FF04 /* LoginView.swift */,
 			);
+			path = Auth;
 			sourceTree = "<group>";
 		};
-		31D827A168ED4DDF92580B06 /* Sources */ = {
+		C5911FB628A1F94C8A8F3BFE /* Exams */ = {
 			isa = PBXGroup;
 			children = (
-				A9EE6C8E10EA452CBFFEB996 /* UserViewModel.swift */,
-				7270F8C009E04CC6A6A8A878 /* MunAIViewModel.swift */,
-				B8F120FC829F466599FDB3A7 /* ExamViewModel.swift */,
-				C383671FF364415B906FAB9F /* ToeicTrackerApp.swift */,
-				5839A3E6B2754A51B56590DC /* GroupModel.swift */,
-				28A5DDDD84F74677ACF1DA06 /* MunAIChat.swift */,
-				B7D557D1D0DC4824A6EA1084 /* ToeicScore.swift */,
-				3CB64A51052C405A82EFDE70 /* ToeicExam.swift */,
-				4B139050C7F14058AE273554 /* ToeicScoreConverter.swift */,
-				6B4F5C7D821A4762866A9294 /* UserModel.swift */,
-				7B2EFC2519764782BB357913 /* FloatingTabBar.swift */,
-				D9B577B214DD41EAA6416AFF /* CircularProgressView.swift */,
-				02C9A69944FD4B86BA6EDC31 /* DynamicIslandNotification.swift */,
-				78038093041B47A5BD518DE1 /* ConfettiView.swift */,
-				378583B124AB4BD8BD53A19D /* LiquidGlassTheme.swift */,
-				A3FF50DAFC254A1BA0892334 /* LiquidGlassModifiers.swift */,
-				E8CB376E28B84BC38841B295 /* MainView.swift */,
-				C1976DA093CB491BA6CBDFDC /* ScoreChartView.swift */,
-				9F5C971F9D8844E695628E24 /* HomeView.swift */,
-				9EE3198ACE194B38BA256362 /* ScoreCardView.swift */,
-				DBCF21B8ED114CD6A04D8D19 /* LearningPathView.swift */,
-				6001D8136BAF46AFBE076FAA /* LeaderboardView.swift */,
-				1CD15F42B7FC4FC48D5A55E5 /* GroupDialogView.swift */,
-				8F7AD972671F45BBA6977F4A /* AddScoreSheet.swift */,
-				4FD412BEE96740F7A1EA111D /* EditUserSheet.swift */,
-				72379A22A9A24F95B8152537 /* ProfileView.swift */,
-				41B42069808140708314477A /* AddUserSheet.swift */,
-				C2D24559F150412A88C5DEBB /* MunAIView.swift */,
-				DD5D0F8C5F7844CAA569EB65 /* ChatBubbleView.swift */,
-				9797BD1200274222B6907209 /* ChatSessionDrawer.swift */,
-				8F8D32F2A5FC4C638671F402 /* QuestionGridSheet.swift */,
-				0AAF6DBC96CD470AB41F2B8E /* ExamModeModal.swift */,
 				840236C1E23B40F8ABEA10F6 /* ExamListView.swift */,
+				0AAF6DBC96CD470AB41F2B8E /* ExamModeModal.swift */,
 				42CF096BE81F4D57917D1769 /* ExamResultSheet.swift */,
 				AEEB5110F3CF4CF29F72DD87 /* ExamSessionView.swift */,
-				E6B28171614D49EDBF79F191 /* GeminiAIService.swift */,
-				861E7B7B300341DC86818BCE /* StorageService.swift */,
-				780F80C1FF9A488FB81E5199 /* AudioPlayerService.swift */,
-				8D8F137061E34A81A07E019D /* ExamService.swift */,
-				AA11BB22CC334455DD66FF01 /* AuthService.swift */,
-				AA11BB22CC334455DD66FF02 /* FirebaseConfig.swift */,
-				AA11BB22CC334455DD66FF03 /* FirestoreService.swift */,
-				AA11BB22CC334455DD66FF04 /* LoginView.swift */,
-				AA11BB22CC334455DD66FF05 /* MaintenanceView.swift */,
+				8F8D32F2A5FC4C638671F402 /* QuestionGridSheet.swift */,
 			);
-			name = Sources;
+			path = Exams;
 			sourceTree = "<group>";
 		};
-		C826D15631CF452ABCB16AF5 /* Resources */ = {
+		7B4878034A8D8762C7E48348 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				9F5C971F9D8844E695628E24 /* HomeView.swift */,
+				9EE3198ACE194B38BA256362 /* ScoreCardView.swift */,
+				C1976DA093CB491BA6CBDFDC /* ScoreChartView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		6A0BC6291964B5FB2E69CF6B /* Leaderboard */ = {
+			isa = PBXGroup;
+			children = (
+				1CD15F42B7FC4FC48D5A55E5 /* GroupDialogView.swift */,
+				6001D8136BAF46AFBE076FAA /* LeaderboardView.swift */,
+			);
+			path = Leaderboard;
+			sourceTree = "<group>";
+		};
+		3EE565A188FAC5638EF7B7BE /* LearningPath */ = {
+			isa = PBXGroup;
+			children = (
+				DBCF21B8ED114CD6A04D8D19 /* LearningPathView.swift */,
+			);
+			path = LearningPath;
+			sourceTree = "<group>";
+		};
+		0AB17B7FCBA740BA73F43AD8 /* MunAI */ = {
+			isa = PBXGroup;
+			children = (
+				DD5D0F8C5F7844CAA569EB65 /* ChatBubbleView.swift */,
+				9797BD1200274222B6907209 /* ChatSessionDrawer.swift */,
+				C2D24559F150412A88C5DEBB /* MunAIView.swift */,
+			);
+			path = MunAI;
+			sourceTree = "<group>";
+		};
+		7A0D07975DA02CCECF15FCAB /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				41B42069808140708314477A /* AddUserSheet.swift */,
+				4FD412BEE96740F7A1EA111D /* EditUserSheet.swift */,
+				72379A22A9A24F95B8152537 /* ProfileView.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		2A640BA352AAC78072250EA0 /* Score */ = {
+			isa = PBXGroup;
+			children = (
+				8F7AD972671F45BBA6977F4A /* AddScoreSheet.swift */,
+			);
+			path = Score;
+			sourceTree = "<group>";
+		};
+		77C037C483DC6B00C463C5F9 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				C383671FF364415B906FAB9F /* ToeicTrackerApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		B0D194E680229EC86D74432D /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				D9B577B214DD41EAA6416AFF /* CircularProgressView.swift */,
+				78038093041B47A5BD518DE1 /* ConfettiView.swift */,
+				02C9A69944FD4B86BA6EDC31 /* DynamicIslandNotification.swift */,
+				7B2EFC2519764782BB357913 /* FloatingTabBar.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		BC8E6A5FDB0FEE50AF1B10E7 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				5839A3E6B2754A51B56590DC /* GroupModel.swift */,
+				28A5DDDD84F74677ACF1DA06 /* MunAIChat.swift */,
+				3CB64A51052C405A82EFDE70 /* ToeicExam.swift */,
+				B7D557D1D0DC4824A6EA1084 /* ToeicScore.swift */,
+				4B139050C7F14058AE273554 /* ToeicScoreConverter.swift */,
+				6B4F5C7D821A4762866A9294 /* UserModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FA1196890D421541891D17B1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				780F80C1FF9A488FB81E5199 /* AudioPlayerService.swift */,
+				AA11BB22CC334455DD66FF01 /* AuthService.swift */,
+				8D8F137061E34A81A07E019D /* ExamService.swift */,
+				AA11BB22CC334455DD66FF02 /* FirebaseConfig.swift */,
+				AA11BB22CC334455DD66FF03 /* FirestoreService.swift */,
+				E6B28171614D49EDBF79F191 /* GeminiAIService.swift */,
+				861E7B7B300341DC86818BCE /* StorageService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		12EF7875862F3BB69D3F44C9 /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				A3FF50DAFC254A1BA0892334 /* LiquidGlassModifiers.swift */,
+				378583B124AB4BD8BD53A19D /* LiquidGlassTheme.swift */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		F3533A2279EAD65233E99B38 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				B8F120FC829F466599FDB3A7 /* ExamViewModel.swift */,
+				7270F8C009E04CC6A6A8A878 /* MunAIViewModel.swift */,
+				A9EE6C8E10EA452CBFFEB996 /* UserViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		F867080DDDCAA8CC74A91BE2 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E8CB376E28B84BC38841B295 /* MainView.swift */,
+				AA11BB22CC334455DD66FF05 /* MaintenanceView.swift */,
+				75177CC4DD9D19D703137E50 /* Auth */,
+				C5911FB628A1F94C8A8F3BFE /* Exams */,
+				7B4878034A8D8762C7E48348 /* Home */,
+				6A0BC6291964B5FB2E69CF6B /* Leaderboard */,
+				3EE565A188FAC5638EF7B7BE /* LearningPath */,
+				0AB17B7FCBA740BA73F43AD8 /* MunAI */,
+				7A0D07975DA02CCECF15FCAB /* Profile */,
+				2A640BA352AAC78072250EA0 /* Score */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B642DCC00EC1A184662227C2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				D1C2B785E8894F5AB592C2C6 /* Assets.xcassets */,
-				3D91D6D2BFF741D8812C6770 /* exams */,
+				5128586BAD7F4D4B595C5F3E /* GoogleService-Info.plist */,
 				AAD71FCDE54B41F8A970E353 /* Info.plist */,
+				3D91D6D2BFF741D8812C6770 /* exams */,
 			);
-			name = Resources;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		0CAF30E5BFED4A5C86FBC1EB /* Products */ = {
@@ -193,6 +293,29 @@
 				D906CC3E7A6E4301AB6292F2 /* ToeicTracker.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		F1CCFF9EE1353F4EDD22EC04 /* ToeicTracker */ = {
+			isa = PBXGroup;
+			children = (
+				77C037C483DC6B00C463C5F9 /* App */,
+				B0D194E680229EC86D74432D /* Components */,
+				BC8E6A5FDB0FEE50AF1B10E7 /* Models */,
+				FA1196890D421541891D17B1 /* Services */,
+				12EF7875862F3BB69D3F44C9 /* Theme */,
+				F3533A2279EAD65233E99B38 /* ViewModels */,
+				F867080DDDCAA8CC74A91BE2 /* Views */,
+				B642DCC00EC1A184662227C2 /* Resources */,
+			);
+			path = ToeicTracker;
+			sourceTree = "<group>";
+		};
+		9A7DB0D585BD4FDE9C9A9C9E = {
+			isa = PBXGroup;
+			children = (
+				F1CCFF9EE1353F4EDD22EC04 /* ToeicTracker */,
+				0CAF30E5BFED4A5C86FBC1EB /* Products */,
+			);
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -254,6 +377,7 @@
 			files = (
 				2D825E78754C41279CB44E07 /* Assets.xcassets in Resources */,
 				DAE75F0D8CD64A0F8507E587 /* exams in Resources */,
+				A5768AA98EB99E960DC0CFB5 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,56 +388,81 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67D7ED3FC7E34BE8B8EE4135 /* UserViewModel.swift in Sources */,
-				2ED6276FD8C149FCB409EDC3 /* MunAIViewModel.swift in Sources */,
-				6A73BE5E38BA45B2A3173BBE /* ExamViewModel.swift in Sources */,
-				D71767C709024492A9A4A0B5 /* ToeicTrackerApp.swift in Sources */,
-				08CEF26576834BEBB18E05F1 /* GroupModel.swift in Sources */,
-				01432B5BAA1E4FE7AC2D8C6C /* MunAIChat.swift in Sources */,
-				26C95C9456DA41E1B47F44EF /* ToeicScore.swift in Sources */,
-				66AB618EF2AC4DEFAE9D8FE6 /* ToeicExam.swift in Sources */,
-				D022E4F07FE74F328D0AA7FF /* ToeicScoreConverter.swift in Sources */,
-				16BC20FDB9F34E619EA193BD /* UserModel.swift in Sources */,
-				E9EB4E1F85424A63A369D024 /* FloatingTabBar.swift in Sources */,
-				616CE6FF9EB7436CBE9450F9 /* CircularProgressView.swift in Sources */,
-				2AF2F3292A8243E6848FAEA4 /* DynamicIslandNotification.swift in Sources */,
-				D63306FCEB814DACA2D52475 /* ConfettiView.swift in Sources */,
-				26219226028D47958025E78C /* LiquidGlassTheme.swift in Sources */,
-				B34ABFF77C024719AF2D5D02 /* LiquidGlassModifiers.swift in Sources */,
-				515B331CC4CC4AE3ACBF8150 /* MainView.swift in Sources */,
-				AF87B5CE4A734403ABC3C07F /* ScoreChartView.swift in Sources */,
-				2E160E3116884BD4A7B0206E /* HomeView.swift in Sources */,
-				0143A4395BFD4E0FB347A044 /* ScoreCardView.swift in Sources */,
-				D7D0678E4C10422B992F8365 /* LearningPathView.swift in Sources */,
-				DBC2F3BFE53842DC91CC4420 /* LeaderboardView.swift in Sources */,
-				9FCEAC1715924AE49CA77922 /* GroupDialogView.swift in Sources */,
-				D0F23042DD1B42368CC5B572 /* AddScoreSheet.swift in Sources */,
-				E61DB4F4AF2743CD89B6AB55 /* EditUserSheet.swift in Sources */,
-				69D2813423E24509869E1511 /* ProfileView.swift in Sources */,
-				DA6A8D29BD6840189235F724 /* AddUserSheet.swift in Sources */,
-				256B5CF476B74C4AB57433AD /* MunAIView.swift in Sources */,
-				1AB8300CFD124701953D7084 /* ChatBubbleView.swift in Sources */,
-				38C22BB258FC4113A3E3D45E /* ChatSessionDrawer.swift in Sources */,
-				754AB2F283D8401C9DBE0A1F /* QuestionGridSheet.swift in Sources */,
-				DBB33E7749CA4489BE62E643 /* ExamModeModal.swift in Sources */,
-				14915553F59A4178950AF44E /* ExamListView.swift in Sources */,
-				21F877FD025F4891AD108A7B /* ExamResultSheet.swift in Sources */,
-				D86C521151094865856C81F7 /* ExamSessionView.swift in Sources */,
-				0A21955D1EBE4648A999B573 /* GeminiAIService.swift in Sources */,
-				660168019C054A2B8DE4AF58 /* StorageService.swift in Sources */,
-				31BC7EF744CD45C3AA6A4437 /* AudioPlayerService.swift in Sources */,
-				74134CBB537C419D8AC64E61 /* ExamService.swift in Sources */,
-				AA11BB22CC334455DD66EE01 /* AuthService.swift in Sources */,
-				AA11BB22CC334455DD66EE02 /* FirebaseConfig.swift in Sources */,
-				AA11BB22CC334455DD66EE03 /* FirestoreService.swift in Sources */,
-				AA11BB22CC334455DD66EE04 /* LoginView.swift in Sources */,
-				AA11BB22CC334455DD66EE05 /* MaintenanceView.swift in Sources */,
+				67D7ED3FC7E34BE8B8EE4135 /* , in Sources */,
+				2ED6276FD8C149FCB409EDC3 /* , in Sources */,
+				6A73BE5E38BA45B2A3173BBE /* , in Sources */,
+				D71767C709024492A9A4A0B5 /* , in Sources */,
+				08CEF26576834BEBB18E05F1 /* , in Sources */,
+				01432B5BAA1E4FE7AC2D8C6C /* , in Sources */,
+				26C95C9456DA41E1B47F44EF /* , in Sources */,
+				66AB618EF2AC4DEFAE9D8FE6 /* , in Sources */,
+				D022E4F07FE74F328D0AA7FF /* , in Sources */,
+				16BC20FDB9F34E619EA193BD /* , in Sources */,
+				E9EB4E1F85424A63A369D024 /* , in Sources */,
+				616CE6FF9EB7436CBE9450F9 /* , in Sources */,
+				2AF2F3292A8243E6848FAEA4 /* , in Sources */,
+				D63306FCEB814DACA2D52475 /* , in Sources */,
+				26219226028D47958025E78C /* , in Sources */,
+				B34ABFF77C024719AF2D5D02 /* , in Sources */,
+				515B331CC4CC4AE3ACBF8150 /* , in Sources */,
+				AF87B5CE4A734403ABC3C07F /* , in Sources */,
+				2E160E3116884BD4A7B0206E /* , in Sources */,
+				0143A4395BFD4E0FB347A044 /* , in Sources */,
+				D7D0678E4C10422B992F8365 /* , in Sources */,
+				DBC2F3BFE53842DC91CC4420 /* , in Sources */,
+				9FCEAC1715924AE49CA77922 /* , in Sources */,
+				D0F23042DD1B42368CC5B572 /* , in Sources */,
+				E61DB4F4AF2743CD89B6AB55 /* , in Sources */,
+				69D2813423E24509869E1511 /* , in Sources */,
+				DA6A8D29BD6840189235F724 /* , in Sources */,
+				256B5CF476B74C4AB57433AD /* , in Sources */,
+				1AB8300CFD124701953D7084 /* , in Sources */,
+				38C22BB258FC4113A3E3D45E /* , in Sources */,
+				754AB2F283D8401C9DBE0A1F /* , in Sources */,
+				DBB33E7749CA4489BE62E643 /* , in Sources */,
+				14915553F59A4178950AF44E /* , in Sources */,
+				21F877FD025F4891AD108A7B /* , in Sources */,
+				D86C521151094865856C81F7 /* , in Sources */,
+				0A21955D1EBE4648A999B573 /* , in Sources */,
+				660168019C054A2B8DE4AF58 /* , in Sources */,
+				31BC7EF744CD45C3AA6A4437 /* , in Sources */,
+				74134CBB537C419D8AC64E61 /* , in Sources */,
+				AA11BB22CC334455DD66EE01 /* , in Sources */,
+				AA11BB22CC334455DD66EE02 /* , in Sources */,
+				AA11BB22CC334455DD66EE03 /* , in Sources */,
+				AA11BB22CC334455DD66EE04 /* , in Sources */,
+				AA11BB22CC334455DD66EE05 /* , in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		093DF5520E604A8091F95C63 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LUZFB6A64W;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = ToeicTracker/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.toeic.tracker.ToeicTracker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
 		0B0A6CD5E46A4596826A4FDE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -364,31 +513,6 @@
 			};
 			name = Release;
 		};
-		093DF5520E604A8091F95C63 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = "ToeicTracker/Resources/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.toeic.tracker.ToeicTracker;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
 		FD8D4509E7B049D48C22EE0B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -396,10 +520,10 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = LUZFB6A64W;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = "ToeicTracker/Resources/Info.plist";
+				INFOPLIST_FILE = ToeicTracker/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -417,15 +541,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		54DE7C7885E44631B591D9B7 /* Build configuration list for PBXProject "ToeicTracker" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				0B0A6CD5E46A4596826A4FDE /* Debug */,
-				6D0B1ABAD4E94B78A0EB378A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		3899A46D04A543CB92722098 /* Build configuration list for PBXNativeTarget "ToeicTracker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -435,8 +550,16 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		54DE7C7885E44631B591D9B7 /* Build configuration list for PBXProject "ToeicTracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0B0A6CD5E46A4596826A4FDE /* Debug */,
+				6D0B1ABAD4E94B78A0EB378A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
-
 	};
 	rootObject = 1E906017CC684E5A923FB542 /* Project object */;
 }

@@ -1,6 +1,5 @@
 import SwiftUI
 
-// MARK: - Ambient Light Background Wrapper
 public struct LiquidGlassBackground: ViewModifier {
     public var showOrbs: Bool
 
@@ -52,7 +51,6 @@ public struct LiquidGlassBackground: ViewModifier {
     }
 }
 
-// MARK: - Liquid Glass Container / Card Modifier
 public struct LiquidGlassCardModifier: ViewModifier {
     public var cornerRadius: CGFloat
     public var padding: CGFloat
