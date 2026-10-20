@@ -1,0 +1,2984 @@
+{
+  "id": "ets_2026_test_1",
+  "title": "ETS TOEIC 2026 - Test 01",
+  "description": "Đề thi ETS 2026 chính thức mới nhất. Đầy đủ 200 câu 7 Part, audio chất lượng cao và đáp án chi tiết.",
+  "tag": "ETS 2026",
+  "timeLimitMinutes": 120,
+  "questions": [
+    {
+      "number": 1,
+      "part": "part1",
+      "questionText": "Câu hỏi số 1 (PART1)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/01.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-01.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 2,
+      "part": "part1",
+      "questionText": "Câu hỏi số 2 (PART1)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/02.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-02.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 3,
+      "part": "part1",
+      "questionText": "Câu hỏi số 3 (PART1)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/03.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-03.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 4,
+      "part": "part1",
+      "questionText": "Câu hỏi số 4 (PART1)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/04.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-04.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 5,
+      "part": "part1",
+      "questionText": "Câu hỏi số 5 (PART1)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/05.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-05.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 6,
+      "part": "part1",
+      "questionText": "Câu hỏi số 6 (PART1)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/06.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-06.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 7,
+      "part": "part2",
+      "questionText": "Câu hỏi số 7 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-07.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 8,
+      "part": "part2",
+      "questionText": "Câu hỏi số 8 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-08.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 9,
+      "part": "part2",
+      "questionText": "Câu hỏi số 9 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-09.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 10,
+      "part": "part2",
+      "questionText": "Câu hỏi số 10 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-10.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 11,
+      "part": "part2",
+      "questionText": "Câu hỏi số 11 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-11.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 12,
+      "part": "part2",
+      "questionText": "Câu hỏi số 12 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-12.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 13,
+      "part": "part2",
+      "questionText": "Câu hỏi số 13 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-13.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 14,
+      "part": "part2",
+      "questionText": "Câu hỏi số 14 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-14.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 15,
+      "part": "part2",
+      "questionText": "Câu hỏi số 15 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-15.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 16,
+      "part": "part2",
+      "questionText": "Câu hỏi số 16 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-16.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 17,
+      "part": "part2",
+      "questionText": "Câu hỏi số 17 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-17.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 18,
+      "part": "part2",
+      "questionText": "Câu hỏi số 18 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-18.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 19,
+      "part": "part2",
+      "questionText": "Câu hỏi số 19 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-19.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 20,
+      "part": "part2",
+      "questionText": "Câu hỏi số 20 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-20.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 21,
+      "part": "part2",
+      "questionText": "Câu hỏi số 21 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-21.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 22,
+      "part": "part2",
+      "questionText": "Câu hỏi số 22 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-22.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 23,
+      "part": "part2",
+      "questionText": "Câu hỏi số 23 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-23.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 24,
+      "part": "part2",
+      "questionText": "Câu hỏi số 24 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-24.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 25,
+      "part": "part2",
+      "questionText": "Câu hỏi số 25 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-25.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 26,
+      "part": "part2",
+      "questionText": "Câu hỏi số 26 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-26.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 27,
+      "part": "part2",
+      "questionText": "Câu hỏi số 27 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-27.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 28,
+      "part": "part2",
+      "questionText": "Câu hỏi số 28 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-28.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 29,
+      "part": "part2",
+      "questionText": "Câu hỏi số 29 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-29.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 30,
+      "part": "part2",
+      "questionText": "Câu hỏi số 30 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-30.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 31,
+      "part": "part2",
+      "questionText": "Câu hỏi số 31 (PART2)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-31.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 32,
+      "part": "part3",
+      "questionText": "Câu hỏi số 32 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-32-34.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 33,
+      "part": "part3",
+      "questionText": "Câu hỏi số 33 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-32-34.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 34,
+      "part": "part3",
+      "questionText": "Câu hỏi số 34 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-32-34.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 35,
+      "part": "part3",
+      "questionText": "Câu hỏi số 35 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-35-37.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 36,
+      "part": "part3",
+      "questionText": "Câu hỏi số 36 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-35-37.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 37,
+      "part": "part3",
+      "questionText": "Câu hỏi số 37 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-35-37.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 38,
+      "part": "part3",
+      "questionText": "Câu hỏi số 38 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-38-40.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 39,
+      "part": "part3",
+      "questionText": "Câu hỏi số 39 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-38-40.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 40,
+      "part": "part3",
+      "questionText": "Câu hỏi số 40 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-38-40.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 41,
+      "part": "part3",
+      "questionText": "Câu hỏi số 41 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-41-43.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 42,
+      "part": "part3",
+      "questionText": "Câu hỏi số 42 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-41-43.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 43,
+      "part": "part3",
+      "questionText": "Câu hỏi số 43 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-41-43.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 44,
+      "part": "part3",
+      "questionText": "Câu hỏi số 44 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-44-46.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 45,
+      "part": "part3",
+      "questionText": "Câu hỏi số 45 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-44-46.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 46,
+      "part": "part3",
+      "questionText": "Câu hỏi số 46 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-44-46.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 47,
+      "part": "part3",
+      "questionText": "Câu hỏi số 47 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-47-49.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 48,
+      "part": "part3",
+      "questionText": "Câu hỏi số 48 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-47-49.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 49,
+      "part": "part3",
+      "questionText": "Câu hỏi số 49 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-47-49.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 50,
+      "part": "part3",
+      "questionText": "Câu hỏi số 50 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-50-52.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 51,
+      "part": "part3",
+      "questionText": "Câu hỏi số 51 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-50-52.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 52,
+      "part": "part3",
+      "questionText": "Câu hỏi số 52 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-50-52.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 53,
+      "part": "part3",
+      "questionText": "Câu hỏi số 53 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-53-55.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 54,
+      "part": "part3",
+      "questionText": "Câu hỏi số 54 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-53-55.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 55,
+      "part": "part3",
+      "questionText": "Câu hỏi số 55 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-53-55.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 56,
+      "part": "part3",
+      "questionText": "Câu hỏi số 56 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-56-58.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 57,
+      "part": "part3",
+      "questionText": "Câu hỏi số 57 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-56-58.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 58,
+      "part": "part3",
+      "questionText": "Câu hỏi số 58 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-56-58.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 59,
+      "part": "part3",
+      "questionText": "Câu hỏi số 59 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-59-61.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 60,
+      "part": "part3",
+      "questionText": "Câu hỏi số 60 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-59-61.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 61,
+      "part": "part3",
+      "questionText": "Câu hỏi số 61 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-59-61.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 62,
+      "part": "part3",
+      "questionText": "Câu hỏi số 62 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/graphic-q62-64.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-62-64.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 63,
+      "part": "part3",
+      "questionText": "Câu hỏi số 63 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/graphic-q62-64.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-62-64.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 64,
+      "part": "part3",
+      "questionText": "Câu hỏi số 64 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/graphic-q62-64.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-62-64.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 65,
+      "part": "part3",
+      "questionText": "Câu hỏi số 65 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/graphic-q65-67.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-65-67.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 66,
+      "part": "part3",
+      "questionText": "Câu hỏi số 66 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/graphic-q65-67.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-65-67.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 67,
+      "part": "part3",
+      "questionText": "Câu hỏi số 67 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/graphic-q65-67.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-65-67.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 68,
+      "part": "part3",
+      "questionText": "Câu hỏi số 68 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/graphic-q68-70.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-68-70.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 69,
+      "part": "part3",
+      "questionText": "Câu hỏi số 69 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/graphic-q68-70.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-68-70.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 70,
+      "part": "part3",
+      "questionText": "Câu hỏi số 70 (PART3)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/graphic-q68-70.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-68-70.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 71,
+      "part": "part4",
+      "questionText": "Câu hỏi số 71 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-71-73.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 72,
+      "part": "part4",
+      "questionText": "Câu hỏi số 72 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-71-73.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 73,
+      "part": "part4",
+      "questionText": "Câu hỏi số 73 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-71-73.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 74,
+      "part": "part4",
+      "questionText": "Câu hỏi số 74 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-74-76.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 75,
+      "part": "part4",
+      "questionText": "Câu hỏi số 75 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-74-76.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 76,
+      "part": "part4",
+      "questionText": "Câu hỏi số 76 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-74-76.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 77,
+      "part": "part4",
+      "questionText": "Câu hỏi số 77 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-77-79.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 78,
+      "part": "part4",
+      "questionText": "Câu hỏi số 78 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-77-79.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 79,
+      "part": "part4",
+      "questionText": "Câu hỏi số 79 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-77-79.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 80,
+      "part": "part4",
+      "questionText": "Câu hỏi số 80 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-80-82.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 81,
+      "part": "part4",
+      "questionText": "Câu hỏi số 81 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-80-82.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 82,
+      "part": "part4",
+      "questionText": "Câu hỏi số 82 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-80-82.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 83,
+      "part": "part4",
+      "questionText": "Câu hỏi số 83 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-83-85.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 84,
+      "part": "part4",
+      "questionText": "Câu hỏi số 84 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-83-85.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 85,
+      "part": "part4",
+      "questionText": "Câu hỏi số 85 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-83-85.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 86,
+      "part": "part4",
+      "questionText": "Câu hỏi số 86 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-86-88.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 87,
+      "part": "part4",
+      "questionText": "Câu hỏi số 87 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-86-88.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 88,
+      "part": "part4",
+      "questionText": "Câu hỏi số 88 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-86-88.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 89,
+      "part": "part4",
+      "questionText": "Câu hỏi số 89 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-89-91.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 90,
+      "part": "part4",
+      "questionText": "Câu hỏi số 90 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-89-91.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 91,
+      "part": "part4",
+      "questionText": "Câu hỏi số 91 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-89-91.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 92,
+      "part": "part4",
+      "questionText": "Câu hỏi số 92 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-92-94.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 93,
+      "part": "part4",
+      "questionText": "Câu hỏi số 93 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-92-94.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 94,
+      "part": "part4",
+      "questionText": "Câu hỏi số 94 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-92-94.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 95,
+      "part": "part4",
+      "questionText": "Câu hỏi số 95 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/graphic-q95-97.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-95-97.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 96,
+      "part": "part4",
+      "questionText": "Câu hỏi số 96 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/graphic-q95-97.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-95-97.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 97,
+      "part": "part4",
+      "questionText": "Câu hỏi số 97 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/graphic-q95-97.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-95-97.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 98,
+      "part": "part4",
+      "questionText": "Câu hỏi số 98 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/graphic-q98-100.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-98-100.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 99,
+      "part": "part4",
+      "questionText": "Câu hỏi số 99 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/graphic-q98-100.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-98-100.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 100,
+      "part": "part4",
+      "questionText": "Câu hỏi số 100 (PART4)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/graphic-q98-100.PNG",
+      "audioUrl": "assets/exams/test_1/audio/E26-T01-98-100.mp3",
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 101,
+      "part": "part5",
+      "questionText": "Câu hỏi số 101 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 102,
+      "part": "part5",
+      "questionText": "Câu hỏi số 102 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 103,
+      "part": "part5",
+      "questionText": "Câu hỏi số 103 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 104,
+      "part": "part5",
+      "questionText": "Câu hỏi số 104 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 105,
+      "part": "part5",
+      "questionText": "Câu hỏi số 105 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 106,
+      "part": "part5",
+      "questionText": "Câu hỏi số 106 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 107,
+      "part": "part5",
+      "questionText": "Câu hỏi số 107 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 108,
+      "part": "part5",
+      "questionText": "Câu hỏi số 108 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 109,
+      "part": "part5",
+      "questionText": "Câu hỏi số 109 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 110,
+      "part": "part5",
+      "questionText": "Câu hỏi số 110 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 111,
+      "part": "part5",
+      "questionText": "Câu hỏi số 111 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 112,
+      "part": "part5",
+      "questionText": "Câu hỏi số 112 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 113,
+      "part": "part5",
+      "questionText": "Câu hỏi số 113 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 114,
+      "part": "part5",
+      "questionText": "Câu hỏi số 114 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 115,
+      "part": "part5",
+      "questionText": "Câu hỏi số 115 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 116,
+      "part": "part5",
+      "questionText": "Câu hỏi số 116 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 117,
+      "part": "part5",
+      "questionText": "Câu hỏi số 117 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 118,
+      "part": "part5",
+      "questionText": "Câu hỏi số 118 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 119,
+      "part": "part5",
+      "questionText": "Câu hỏi số 119 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 120,
+      "part": "part5",
+      "questionText": "Câu hỏi số 120 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 121,
+      "part": "part5",
+      "questionText": "Câu hỏi số 121 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 122,
+      "part": "part5",
+      "questionText": "Câu hỏi số 122 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 123,
+      "part": "part5",
+      "questionText": "Câu hỏi số 123 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 124,
+      "part": "part5",
+      "questionText": "Câu hỏi số 124 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 125,
+      "part": "part5",
+      "questionText": "Câu hỏi số 125 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 126,
+      "part": "part5",
+      "questionText": "Câu hỏi số 126 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 127,
+      "part": "part5",
+      "questionText": "Câu hỏi số 127 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 128,
+      "part": "part5",
+      "questionText": "Câu hỏi số 128 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 129,
+      "part": "part5",
+      "questionText": "Câu hỏi số 129 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 130,
+      "part": "part5",
+      "questionText": "Câu hỏi số 130 (PART5)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": null,
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 131,
+      "part": "part6",
+      "questionText": "Câu hỏi số 131 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q131-134.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 132,
+      "part": "part6",
+      "questionText": "Câu hỏi số 132 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q131-134.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 133,
+      "part": "part6",
+      "questionText": "Câu hỏi số 133 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q131-134.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 134,
+      "part": "part6",
+      "questionText": "Câu hỏi số 134 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q131-134.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 135,
+      "part": "part6",
+      "questionText": "Câu hỏi số 135 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q135-138.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 136,
+      "part": "part6",
+      "questionText": "Câu hỏi số 136 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q135-138.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 137,
+      "part": "part6",
+      "questionText": "Câu hỏi số 137 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q135-138.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 138,
+      "part": "part6",
+      "questionText": "Câu hỏi số 138 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q135-138.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 139,
+      "part": "part6",
+      "questionText": "Câu hỏi số 139 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q139-142.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 140,
+      "part": "part6",
+      "questionText": "Câu hỏi số 140 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q139-142.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 141,
+      "part": "part6",
+      "questionText": "Câu hỏi số 141 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q139-142.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 142,
+      "part": "part6",
+      "questionText": "Câu hỏi số 142 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q139-142.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 143,
+      "part": "part6",
+      "questionText": "Câu hỏi số 143 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q143-146.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 144,
+      "part": "part6",
+      "questionText": "Câu hỏi số 144 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q143-146.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 145,
+      "part": "part6",
+      "questionText": "Câu hỏi số 145 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q143-146.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 146,
+      "part": "part6",
+      "questionText": "Câu hỏi số 146 (PART6)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q143-146.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 147,
+      "part": "part7",
+      "questionText": "Câu hỏi số 147 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q147-148.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 148,
+      "part": "part7",
+      "questionText": "Câu hỏi số 148 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q147-148.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 149,
+      "part": "part7",
+      "questionText": "Câu hỏi số 149 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q149-150.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 150,
+      "part": "part7",
+      "questionText": "Câu hỏi số 150 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q149-150.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 151,
+      "part": "part7",
+      "questionText": "Câu hỏi số 151 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q151-152.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 152,
+      "part": "part7",
+      "questionText": "Câu hỏi số 152 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q151-152.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 153,
+      "part": "part7",
+      "questionText": "Câu hỏi số 153 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q153-154.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 154,
+      "part": "part7",
+      "questionText": "Câu hỏi số 154 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q153-154.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 155,
+      "part": "part7",
+      "questionText": "Câu hỏi số 155 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q155-157.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 156,
+      "part": "part7",
+      "questionText": "Câu hỏi số 156 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q155-157.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 157,
+      "part": "part7",
+      "questionText": "Câu hỏi số 157 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q155-157.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 158,
+      "part": "part7",
+      "questionText": "Câu hỏi số 158 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q158-160.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 159,
+      "part": "part7",
+      "questionText": "Câu hỏi số 159 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q158-160.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 160,
+      "part": "part7",
+      "questionText": "Câu hỏi số 160 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q158-160.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 161,
+      "part": "part7",
+      "questionText": "Câu hỏi số 161 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q161-163.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 162,
+      "part": "part7",
+      "questionText": "Câu hỏi số 162 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q161-163.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 163,
+      "part": "part7",
+      "questionText": "Câu hỏi số 163 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q161-163.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 164,
+      "part": "part7",
+      "questionText": "Câu hỏi số 164 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q164-167.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 165,
+      "part": "part7",
+      "questionText": "Câu hỏi số 165 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q164-167.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 166,
+      "part": "part7",
+      "questionText": "Câu hỏi số 166 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q164-167.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 167,
+      "part": "part7",
+      "questionText": "Câu hỏi số 167 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q164-167.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 168,
+      "part": "part7",
+      "questionText": "Câu hỏi số 168 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q168-171.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 169,
+      "part": "part7",
+      "questionText": "Câu hỏi số 169 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q168-171.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 170,
+      "part": "part7",
+      "questionText": "Câu hỏi số 170 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q168-171.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 171,
+      "part": "part7",
+      "questionText": "Câu hỏi số 171 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q168-171.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 172,
+      "part": "part7",
+      "questionText": "Câu hỏi số 172 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q172-175.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 173,
+      "part": "part7",
+      "questionText": "Câu hỏi số 173 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q172-175.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 174,
+      "part": "part7",
+      "questionText": "Câu hỏi số 174 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q172-175.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 175,
+      "part": "part7",
+      "questionText": "Câu hỏi số 175 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q172-175.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 176,
+      "part": "part7",
+      "questionText": "Câu hỏi số 176 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q176-180-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 177,
+      "part": "part7",
+      "questionText": "Câu hỏi số 177 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q176-180-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 178,
+      "part": "part7",
+      "questionText": "Câu hỏi số 178 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q176-180-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 179,
+      "part": "part7",
+      "questionText": "Câu hỏi số 179 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q176-180-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 180,
+      "part": "part7",
+      "questionText": "Câu hỏi số 180 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q176-180-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 181,
+      "part": "part7",
+      "questionText": "Câu hỏi số 181 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q181-185-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 182,
+      "part": "part7",
+      "questionText": "Câu hỏi số 182 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q181-185-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 183,
+      "part": "part7",
+      "questionText": "Câu hỏi số 183 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q181-185-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 184,
+      "part": "part7",
+      "questionText": "Câu hỏi số 184 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 2,
+      "imageUrl": "assets/exams/test_1/images/passage-q181-185-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: C"
+    },
+    {
+      "number": 185,
+      "part": "part7",
+      "questionText": "Câu hỏi số 185 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q181-185-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 186,
+      "part": "part7",
+      "questionText": "Câu hỏi số 186 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q186-190-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 187,
+      "part": "part7",
+      "questionText": "Câu hỏi số 187 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q186-190-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 188,
+      "part": "part7",
+      "questionText": "Câu hỏi số 188 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q186-190-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 189,
+      "part": "part7",
+      "questionText": "Câu hỏi số 189 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q186-190-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 190,
+      "part": "part7",
+      "questionText": "Câu hỏi số 190 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q186-190-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 191,
+      "part": "part7",
+      "questionText": "Câu hỏi số 191 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q191-195-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 192,
+      "part": "part7",
+      "questionText": "Câu hỏi số 192 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q191-195-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 193,
+      "part": "part7",
+      "questionText": "Câu hỏi số 193 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q191-195-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 194,
+      "part": "part7",
+      "questionText": "Câu hỏi số 194 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q191-195-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 195,
+      "part": "part7",
+      "questionText": "Câu hỏi số 195 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q191-195-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 196,
+      "part": "part7",
+      "questionText": "Câu hỏi số 196 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 1,
+      "imageUrl": "assets/exams/test_1/images/passage-q196-200-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: B"
+    },
+    {
+      "number": 197,
+      "part": "part7",
+      "questionText": "Câu hỏi số 197 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q196-200-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 198,
+      "part": "part7",
+      "questionText": "Câu hỏi số 198 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q196-200-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    },
+    {
+      "number": 199,
+      "part": "part7",
+      "questionText": "Câu hỏi số 199 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 0,
+      "imageUrl": "assets/exams/test_1/images/passage-q196-200-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: A"
+    },
+    {
+      "number": 200,
+      "part": "part7",
+      "questionText": "Câu hỏi số 200 (PART7)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctOptionIndex": 3,
+      "imageUrl": "assets/exams/test_1/images/passage-q196-200-a.PNG",
+      "audioUrl": null,
+      "explanation": "Đáp án chính thức ETS 2026: D"
+    }
+  ]
+}
